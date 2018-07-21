@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonImg</string>
+    <string-array name="Food">
+        <item >dosa</item>
+        <item>masalarice</item>
+        <item>vada</item>
+        <item>idli</item>
+</string-array>
+</resources>
